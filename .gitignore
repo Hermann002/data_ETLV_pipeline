@@ -3,3 +3,4 @@
 .venv/
 /gzip
 /Data
+/metastore_db
